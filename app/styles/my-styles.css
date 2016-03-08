@@ -242,10 +242,6 @@ body {
     width: 256px;
 }
 
-#homePanels {
-    height: 230px;
-}
-
 .jumbotron > .container > .row > .col-xs-12 > img {
     display: block;
     margin: 0 auto;
