@@ -228,6 +228,10 @@ body {
     text-transform: uppercase;
 }
 
+#homePanels {
+    height: 230px;
+}
+
 #shortIntro {
     text-shadow: 1px 1px 8px green;
 }
