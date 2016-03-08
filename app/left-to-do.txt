@@ -1,4 +1,5 @@
 Note on what's left to do:
 
-1. Add a shop page.
-2. Add a checkout page.
+1. Add modals to lead on where to click on.
+2. Add a shop page. (Not necessary)
+3. Add a checkout page. (Not necessary)
